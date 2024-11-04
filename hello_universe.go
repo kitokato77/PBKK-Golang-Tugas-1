@@ -7,7 +7,7 @@ func main() {
 	fmt.Scan(&input)
 	
 	if input == 42 {
-		fmt.Println("Universe")
+		fmt.Println("Hello Universe")
 	} else {
 		fmt.Println(input)
 	}
